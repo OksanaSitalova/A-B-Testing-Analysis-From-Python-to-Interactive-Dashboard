@@ -57,7 +57,7 @@ Each test was evaluated separately for statistical significance (p < 0.05).
 
 ---
 
-## 📈 Key Results
+## Key Results
 
 | Test | Significant Metrics                          | Notes |
 |------|----------------------------------------------|-------|
@@ -80,6 +80,7 @@ Each test was evaluated separately for statistical significance (p < 0.05).
 ## Tableau Dashboard
 
 View the full visualized analysis here:  
+![dashboard](Dashboard_AB.png)
 🔗 [A/B Testing Dashboard (Tableau Public)](https://public.tableau.com/app/profile/oksana.sitalova/viz/A_BTESTINGANALYSIS/Dashboard1?publish=yes)
 
 ---
